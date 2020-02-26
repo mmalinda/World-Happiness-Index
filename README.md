@@ -1,6 +1,6 @@
 # World Happiness Report
 Collaborative project, February 2020
-By mmalinda (https://github.com/mmalinda), deelilah (https://github.com/deelilah), 
+By mmalinda (https://github.com/mmalinda), deelilah (https://github.com/deelilah), MachochoMengo (https://github.com/Machocho254)
 
 ## Description
 A decision tree model with random forest and gradient boosting, followed by an elastic net regression model to deduce which factors are likely to influence happiness of citizens.
